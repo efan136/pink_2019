@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [ANDREI EFREMOV!]().
-* Наставник: [unknown tutor]().
+* Студент: [ANDREI EFREMOV!!]().
+* Наставник: [unknown tutor!]().
 
 ---
 
