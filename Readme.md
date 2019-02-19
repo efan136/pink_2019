@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Yurii Timchenko](https://up.htmlacademy.ru/adaptive/15/user/486431).
-* Наставник: [Михаил Поданев](https://htmlacademy.ru/profile/mpodanev).
+* Студент: [ANDREI EFREMOV]().
+* Наставник: [unknown]().
 
 ---
 
